@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BoxWord
+comment1.params=
+comment1.target=BoxWord()
+comment2.params=s
+comment2.target=BoxWord(java.lang.String)
+comment3.params=w
+comment3.target=void\ setWord(java.lang.String)
+comment4.params=word
+comment4.target=void\ Box(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
