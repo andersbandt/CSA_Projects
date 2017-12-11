@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumberSorter
+comment1.params=number
+comment1.target=int\ getNumDigits(int)
+comment2.params=number
+comment2.target=int[]\ getSortedDigitArray(int)
+comment3.params=test
+comment3.target=boolean\ tester(int[])
+numComments=4
